@@ -38,6 +38,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/github/stars/doomdybbuk?style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/pulls/doomdybbuk?style=social" alt="GitHub Pull Requests" />
+  <img src="https://img.shields.io/github/issues-pr/doomdybbuk?style=social" alt="GitHub Pull Requests" />
   <img src="https://img.shields.io/github/contributions/doomdybbuk?style=social" alt="GitHub Contributions" />
 </p>
+
