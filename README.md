@@ -35,3 +35,9 @@
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/github/stars/doomdybbuk?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/pulls/doomdybbuk?style=social" alt="GitHub Pull Requests" />
+  <img src="https://img.shields.io/github/contributions/doomdybbuk?style=social" alt="GitHub Contributions" />
+</p>
