@@ -49,7 +49,7 @@
   <a href="https://www.hackerrank.com/manan_jain16949" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doomdybbuk&show_icons=true&locale=en&layout=compact" alt="doomdybbuk" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doomdybbuk&show_icons=true&locale=en&layout=compact" alt="doomdybbuk" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doomdybbuk&show_icons=true&locale=en" alt="doomdybbuk" /></p>
 </div>
