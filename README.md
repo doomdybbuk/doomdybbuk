@@ -47,15 +47,15 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
+<details>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doomdybbuk&label=Profile%20views&color=0e75b6&style=flat" alt="doomdybbuk" /> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doomdybbuk&show_icons=true&locale=en" alt="doomdybbuk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doomdybbuk&" alt="doomdybbuk" /></p>
+</details>
 
 
 
