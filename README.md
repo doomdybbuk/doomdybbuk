@@ -57,10 +57,8 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doomdybbuk&show_icons=true&locale=en&layout=compact" alt="doomdybbuk" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doomdybbuk&show_icons=true&locale=en" alt="doomdybbuk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doomdybbuk&" alt="doomdybbuk" /></p>
+
 
 
