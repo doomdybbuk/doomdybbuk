@@ -55,7 +55,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doomdybbuk&show_icons=true&locale=en" alt="doomdybbuk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doomdybbuk&" alt="doomdybbuk" /></p>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lqiw2pzfvqnfw6flpqk6hk2xe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=lqiw2pzfvqnfw6flpqk6hk2xe&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=lqiw2pzfvqnfw6flpqk6hk2xe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=lqiw2pzfvqnfw6flpqk6hk2xe&redirect=true)
+
 </details>
 
 
