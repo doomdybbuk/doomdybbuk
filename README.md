@@ -56,3 +56,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doomdybbuk&" alt="doomdybbuk" /></p>
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=lqiw2pzfvqnfw6flpqk6hk2xe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">Click This </a>
+
+
+
+
+
+<a href="https://github.com/doomdybbuk/github-readme-stats"><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=doomdybbuk&show_icons=true&theme=dracula&hide_border=true" alt="Manan's github stats" /></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=doomdybbuk&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
