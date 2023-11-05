@@ -48,12 +48,6 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
-<p align="left">
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doomdybbuk&show_icons=true&locale=en" alt="doomdybbuk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doomdybbuk&" alt="doomdybbuk" /></p>
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=lqiw2pzfvqnfw6flpqk6hk2xe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">Click This </a>
 
