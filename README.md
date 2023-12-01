@@ -54,9 +54,5 @@
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=lqiw2pzfvqnfw6flpqk6hk2xe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=lqiw2pzfvqnfw6flpqk6hk2xe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-**Currently Playing:**
-- If playing: [Song Name by Artist Name]
-- If not playing: Not playing now
 
