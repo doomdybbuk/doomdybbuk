@@ -9,13 +9,10 @@ past experiences:
   - ["Developer Intern", "Employee Management System", "Markytics", "Pune", "June 2023 -Aug  2023"]
   
 
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
-                      "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Motion Planning", "Optimization", 
-                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["Web3", "React", "Vue"]
-will_learn: ["Blockchain (backend)"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+fields_of_interests: ["Backend Development" , "Data Structures and Algorithms","Artificial Intelligence" ,"Machine Learning"]
+currently_learning: ["Data Structures and Algorihtms", "React", "Next" , "Advance Django"]
+will_learn: ["Artificial Intelligence","Machine Learning"]
+hobbies: ["Volleyball","Foorball","Competitive Gaming", "Music"]
 ```
 
 
