@@ -13,6 +13,7 @@ fields_of_interests: ["Backend Development" , "Data Structures and Algorithms","
 currently_learning: ["Data Structures and Algorihtms", "React", "Next" , "Advance Django"]
 will_learn: ["Artificial Intelligence","Machine Learning"]
 hobbies: ["Volleyball","Foorball","Competitive Gaming", "Music"]
+portfolio website : ["manan-portfolio-website.vercel.app/"]
 ```
 
 
