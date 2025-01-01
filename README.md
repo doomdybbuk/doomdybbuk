@@ -5,8 +5,10 @@ from: Udaipur (Rajasthan)
 job: Full Stack Developer
 education: ["Bachelor In Technology", "Computer Science", "Artificial Intelligence and Data Science"]
 institute: Dr Vishwanath Karad Maharashtra Institute of Technology, World Peace University
-past experiences: 
+past experiences:
+  - ["Software Developer", "SHM, QTRacker", "Dext IT Solutions", "Pune", "Aug 2024 - Dec 2024"] 
   - ["Developer Intern", "Employee Management System", "Markytics", "Pune", "June 2023 -Aug  2023"]
+
   
 
 fields_of_interests: ["Backend Development" , "Data Structures and Algorithms","Artificial Intelligence" ,"Machine Learning"]
